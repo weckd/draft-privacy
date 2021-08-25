@@ -37,35 +37,7 @@ goal](#-basic-knows-hows-and-setting-your-goal)
 
 </div>
 
-> ##### Index:
->
-> -   ###### Section 1: What is Privacy
->
->     -   Privacy
->
->     -   Internet Privacy
->
->     -   Basic terminology
->
-> -   ###### Section 2: Why privacy matters
->
->     -   Why Privacy matters
->
->     -   Further reading
->
-> -   ###### Section 3: How Private is the Internet?
->
->     -   Internet and Privacy
->
->     -   The Privacy offenders
->
->     -   What data is collected
->
->     -   Safety, Trust and Ethics
->
-> -   ###### Section 4: How to have control over your privacy on the internet
->
->     -   Basic requirements
+
 
 ##### Section 1: What is privacy?
 
